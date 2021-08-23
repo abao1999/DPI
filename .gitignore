@@ -1,2 +1,6 @@
 DPItorch/checkpoint
 *.sh
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+*/_pycahce_/*
