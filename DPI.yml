@@ -1,4 +1,4 @@
-name: torch_proj
+name: dpi_torch
 channels:
   - anaconda
   - astropy
@@ -267,9 +267,9 @@ dependencies:
     - sphinxcontrib-jsmath==1.0.1
     - sphinxcontrib-qthelp==1.0.3
     - sphinxcontrib-serializinghtml==1.1.4
-    - torchcubicspline==0.0.3
+#     - torchcubicspline==0.0.3
     - torchkbnufft==0.3.2.post1
     - webencodings==0.5.1
     - yarl==1.6.3
-prefix: /home/groot/anaconda3/envs/torch_proj
+prefix: /home/groot/anaconda3/envs/dpi_torch
 
